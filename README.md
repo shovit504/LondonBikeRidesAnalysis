@@ -8,13 +8,14 @@ The dataset used in this project is obtained from Kaggle. You can find the datas
 
 ## Data Manipulation
 The data manipulation process involves cleaning and transforming the data to make it suitable for analysis and visualization. This includes handling missing values, transforming date-time fields, and creating new features.
+* [Link to notebook](https://github.com/shovit504/LondonBikeRidesAnalysis/blob/main/London_Bikes.ipynb)
 
 ## Data Visualization in Tableau
 The Tableau dashboard created for this project includes five main charts:
 
 * Total Rides Number: This chart shows the total number of bike rides over the selected period.
   
-![TotalRidesCount](https://github.com/shovit504/LondonBikeRidesAnalysis/blob/main/images/TotalBikeRidesCount.png)
+ ![TotalRidesCount](https://github.com/shovit504/LondonBikeRidesAnalysis/blob/main/images/TotalBikeRidesCount.png)
 
 * Moving Average Chart: This curved line chart displays the moving average of bike rides. It includes toggles to select the time frame (days, weeks, months) and an input to filter the moving average by a specific number (e.g., 10 days, 10 weeks).
 ![MAC](https://github.com/shovit504/LondonBikeRidesAnalysis/blob/main/images/MovingAverage.png)
@@ -28,7 +29,7 @@ The Tableau dashboard created for this project includes five main charts:
 * Hourly Rides Chart (Tooltip): A bar chart displaying the number of rides taken per hour in a 24-hour format. This chart is also displayed as a tooltip within the main charts.
 ![HourBar](https://github.com/shovit504/LondonBikeRidesAnalysis/blob/main/images/HourBar.png)
 
-## Result
+## Results
 The entire dashboard provides a comprehensive view of the bike riding patterns in London. It combines various charts to show total rides, moving averages, weather impact, and hourly distribution of rides.
 
 * Example 1
@@ -43,7 +44,7 @@ The entire dashboard provides a comprehensive view of the bike riding patterns i
 * Example 4
 ![Example4](https://github.com/shovit504/LondonBikeRidesAnalysis/blob/main/images/Dashboard3.png)
 
-Here is Link to [Tableau Public](https://public.tableau.com/app/profile/shovit.prusty/viz/londonBikeRides/BikeRidesLondon)
+Here is the Link to [Tableau Public](https://public.tableau.com/app/profile/shovit.prusty/viz/londonBikeRides/BikeRidesLondon)
 
 ## Conclusion
 Using this dashboard, we can gain valuable insights into bike riding behavior in London. The analysis helps in understanding how weather conditions and time of day affect bike rides, which can be useful for urban planning, bike-sharing schemes, and improving transportation infrastructure.
