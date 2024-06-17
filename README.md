@@ -16,6 +16,7 @@ The data manipulation process involves cleaning and transforming the data to mak
 The Tableau dashboard created for this project includes five main charts:
 
 * Total Rides Number: This chart shows the total number of bike rides over the selected period.
+  
 ![TotalRidesCount](https://github.com/shovit504/LondonBikeRidesAnalysis/blob/main/images/TotalBikeRidesCount.png)
 
 * Moving Average Chart: This curved line chart displays the moving average of bike rides. It includes toggles to select the time frame (days, weeks, months) and an input to filter the moving average by a specific number (e.g., 10 days, 10 weeks).
