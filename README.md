@@ -1,10 +1,7 @@
 # London Bike Rides Data Analysis
 
 ## Introduction
-This project aims to analyze bike ride data in London to uncover patterns and insights. The data is fetched from Kaggle, manipulated for specific needs, and visualized using Tableau. The visualizations help in understanding the trends and usage patterns of bike rides in London.
-
-## Aim
-The main aim of this project is to perform data manipulation and visualization to gain insights into the bike riding patterns in London. This includes analyzing the total rides, moving averages, and the impact of weather on bike rides.
+This project leverages data from Kaggle to analyze bike ride patterns in London, providing a comprehensive view of urban cycling trends. By extracting and ingesting detailed ride data, we aim to uncover valuable insights into how various factors influence biking activity in the city. The project involves extensive data manipulation to prepare the dataset for analysis, followed by the creation of detailed visualizations using Tableau. These visualizations help to highlight key metrics such as total ride numbers, moving averages over customizable periods, and the impact of weather conditions on bike usage, offering actionable insights for city planners and transportation enthusiasts.
 
 ## Data Extracted & Ingested
 The dataset used in this project is obtained from Kaggle. You can find the dataset [Kaggle](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset)
